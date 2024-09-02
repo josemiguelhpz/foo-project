@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NadiApplication {
+public class PublicationsApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(NadiApplication.class, args);
+		SpringApplication.run(PublicationsApplication.class, args);
 	}
 
 }
