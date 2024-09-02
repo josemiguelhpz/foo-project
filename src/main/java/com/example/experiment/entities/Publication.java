@@ -1,6 +1,5 @@
-package com.example.nadi.entities;
+package com.example.experiment.entities;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 

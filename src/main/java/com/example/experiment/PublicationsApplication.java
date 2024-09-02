@@ -1,4 +1,4 @@
-package com.example.nadi;
+package com.example.experiment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

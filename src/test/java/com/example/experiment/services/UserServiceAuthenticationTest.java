@@ -1,8 +1,8 @@
-package com.example.nadi.services;
+package com.example.experiment.services;
 
-import com.example.nadi.entities.User;
+import com.example.experiment.entities.User;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mockito;
+
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 

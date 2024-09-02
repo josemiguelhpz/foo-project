@@ -1,6 +1,6 @@
-package com.example.nadi.services;
+package com.example.experiment.services;
 
-import com.example.nadi.entities.User;
+import com.example.experiment.entities.User;
 import org.springframework.stereotype.Service;
 
 @Service

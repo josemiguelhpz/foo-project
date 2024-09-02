@@ -1,4 +1,4 @@
-package com.example.nadi.entities;
+package com.example.experiment.entities;
 
 /*TODO: deberia estar adentro de publication
  */

@@ -1,7 +1,7 @@
-package com.example.nadi.services;
+package com.example.experiment.services;
 
-import com.example.nadi.entities.Publication;
-import com.example.nadi.entities.User;
+import com.example.experiment.entities.Publication;
+import com.example.experiment.entities.User;
 /**
 TODO: tenemos que hacer un servicion para buscar (search)
 **/
